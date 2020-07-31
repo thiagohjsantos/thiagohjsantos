@@ -1,4 +1,9 @@
- Hi there 👋
+ ### Hello there 👋
+
+My name is Thiago Santos, and I am from Brazil. I am also a systems analyst and developer who loves to program every type of application, for that reason sometimes I will share some of my projects that I do, right here on this platform, see ya soon!
+
+
+If you are interested, here are the platforms where you can contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-santos-6b6624182/)](https://www.linkedin.com/in/thiago-santos-6b6624182/)
 
