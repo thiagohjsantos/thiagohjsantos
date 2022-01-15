@@ -2,7 +2,7 @@
 
 ## I'm a Systems Analyst and Developer!
 
-- 👨🏻‍💻 programming languages I'm learning/improving at the moment: C#, Python, Java, JavaScript   
+- 👨🏻‍💻 Programming languages I'm learning/improving at the moment: C#, Python, Java, JavaScript   
 
 <br>
 
